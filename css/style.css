@@ -1,0 +1,30 @@
+.changeFont{
+    font-family: 'Operator Mono', 'Source Sans Pro', Menlo, Monaco, Consolas, Courier New, monospace;
+}
+
+.newFont{
+    font-family: 'Ubuntu', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana', sans-serif;
+}
+
+/* #music img, #album img{
+    width:50%;
+    height: 50%;
+}
+
+div.well{
+    height: 360px;
+    width: 350px;
+}
+
+@media(min-width: 960px) {
+    #music .col-md-3 .well{
+        height:390px;
+    }
+
+    #movies .col-md-3 img{
+        height:240px;
+    }
+}
+
+*/
+
