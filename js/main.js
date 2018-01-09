@@ -1,5 +1,4 @@
 $(document).ready(() => {
-    console.log('working');
    $('#searchForm').on('submit', (e) => {
       let searchText = $('#searchText').val();
       getMusic(searchText);
